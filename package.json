@@ -9,7 +9,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "json-schema"
+    "json-schema",
+    "vscode"
   ],
-  "packageManager": "yarn@3.0.2"
+  "packageManager": "yarn@3.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pablion/vscode-json-schema"
+  }
 }
