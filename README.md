@@ -13,4 +13,4 @@ interface IJSONSchemaMap
 interface IJSONSchemaSnippet
 ```
 
-To see the full schema, check [jsonSchema.ts](./vscode-common-base/jsonSchema)
+To see the full schema, check [jsonSchema.ts](./vscode-common-base/jsonSchema.ts)
